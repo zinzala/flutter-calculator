@@ -1,16 +1,28 @@
-# basic_calculator
+# 🔢 Simple Calculator (Flutter & Dart)
+A simple yet effective calculator app built with Flutter & Dart. It performs basic arithmetic operations and percentage calculations with a clean and intuitive UI.
+<br></br>
+## Features
+✅ Basic Arithmetic – Addition, Subtraction, Multiplication, Division <br>
+✅ Percentage Calculation – Easily find percentages<br>
+✅ Smooth User Experience – Minimalistic design and easy-to-use interface
 
-A new Flutter project.
+# Technologies Used
+ - Flutter (UI Framework)
+ - Dart (Programming Language)
 
-## Getting Started
+# App ScreenShots
+<img src="https://github.com/user-attachments/assets/105bc5f8-d6bd-4221-8fce-7810d4a17243" width="300" />
 
-This project is a starting point for a Flutter application.
+# Installation
+step-1. Clone the repository
+ - git clone https://github.com/zinzala/flutter-calculator.git
 
-A few resources to get you started if this is your first Flutter project:
+step-2. Navigate to the project directory
+ - basic_calculator
+  
+step-3. Install dependencies
+ - flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+step-4. Run the app
+ - flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
